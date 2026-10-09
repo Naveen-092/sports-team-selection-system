@@ -1,0 +1,11 @@
+PRACTICE GROUP REPORT
+=====================
+Slot 1: Naveen | Attacker | Total: 23
+Slot 2: Ravi | Attacker | Total: 24
+Slot 3: Kiran | Defender | Total: 23
+Slot 4: Empty
+Slot 5: Empty
+---------------------
+Selected players: 3
+Group total rating: 70
+Group average rating: 23.33
